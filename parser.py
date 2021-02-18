@@ -1,7 +1,7 @@
 import os
 import networkx as nx
 import json
-
+#Use your paths
 print("working directory is "+os.getcwd())
 os.chdir("www.submarinecablemap.com-master\public\\api\\v2\country")
 print(os.getcwd())
